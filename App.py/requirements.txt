@@ -1,0 +1,5 @@
+langchain-google-genai
+streamlit
+PyPDF2
+speechrecognition
+pyaudio
