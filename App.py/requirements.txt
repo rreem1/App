@@ -1,4 +1,4 @@
-langchain-google-genai
+langchain-google-genai==0.0.7
 streamlit
 PyPDF2
 speechrecognition
